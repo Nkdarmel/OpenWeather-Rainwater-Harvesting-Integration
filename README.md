@@ -126,8 +126,11 @@ References
 Brisson, J., & Tuller, S. (2017). Rainwater harvesting: A review of the current state-of-the-art. Journal of Cleaner Production, 164, 1075-1086.
 Goyal, M. K., Kumar, P., & Singh, R. (2020). Integration of weather forecasting and rainwater harvesting for sustainable water management. Water Resources Management, 34(10), 3471-3484.
 Kumar, S., & Mishra, V. K. (2019). Rainfall-based real-time control strategy for optimal operation of a decentralized rainwater harvesting system. Journal of Hydroinformatics, 21(2), 241-253.
+
 OpenWeather API documentation link:https://openweathermap.org/api
+
 Python requests library documentation link:https://docs.python-requests.org/en/master/
+
 Python json library documentation link:https://docs.python.org/3/library/json.html
 
 Bibliography
