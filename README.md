@@ -124,7 +124,9 @@ References
 [3] OpenWeather API documentation, "Current Weather" endpoint.
 
 Brisson, J., & Tuller, S. (2017). Rainwater harvesting: A review of the current state-of-the-art. Journal of Cleaner Production, 164, 1075-1086.
+
 Goyal, M. K., Kumar, P., & Singh, R. (2020). Integration of weather forecasting and rainwater harvesting for sustainable water management. Water Resources Management, 34(10), 3471-3484.
+
 Kumar, S., & Mishra, V. K. (2019). Rainfall-based real-time control strategy for optimal operation of a decentralized rainwater harvesting system. Journal of Hydroinformatics, 21(2), 241-253.
 
 OpenWeather API documentation link:https://openweathermap.org/api
@@ -136,8 +138,13 @@ Python json library documentation link:https://docs.python.org/3/library/json.ht
 Bibliography
 
 "OpenWeather API" by OpenWeather, Inc.
+
 "Requests: HTTP for Humans" by Kenneth Reitz.
+
 "JSON in Python" by Guido van Rossum.
+
 American Meteorological Society. (2020). Glossary of meteorology.
+
 Australian Government Department of the Environment and Energy. (2019). Rainwater harvesting: A guide to designing and installing a rainwater tank system.
+
 International Association for Urban Drainage Research. (2018). Rainwater harvesting systems: Design, installation, and maintenance guidelines.
