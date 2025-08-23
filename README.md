@@ -1,5 +1,6 @@
 # OpenWeather-Rainwater-Harvesting-Integration
  Integrate OpenWeather API with Rainwater Harvesting Storage System (RWHSS) using Python. Fetch weather data, predict precipitation and optimize storage levels based on morning/afternoon hours. Simulate RWHSS operations for Ouagadougou city.
+
 Foreword
 
 As the world grapples with the challenges of climate change, water scarcity, and urbanization, innovative solutions are needed to ensure sustainable management of our most precious resource: water. Rainwater harvesting (RWH) has emerged as a promising approach to mitigate these issues by collecting and utilizing rainwater for various purposes such as irrigation, toilet flushing, and even drinking.
