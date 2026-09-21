@@ -23,11 +23,11 @@ The project is inspired by FAIR research practices and focuses on **feasibility,
 
 ## Foreword
 
-As the world grapples with the challenges of climate change, water scarcity, and urbanization, innovative solutions are needed to ensure sustainable management of our most precious resource: water. Rainwater harvesting (RWH) has emerged as a promising approach to mitigate these issues by collecting and utilizing rainwater for various purposes such as irrigation, toilet flushing, and even drinking[1].
+As the world grapples with the challenges of climate change, water scarcity, and urbanization, innovative solutions are needed to ensure sustainable management of our most precious resource: water. Rainwater harvesting (RWH) has emerged as a promising approach to mitigate these issues by collecting and utilizing rainwater for various purposes such as irrigation, toilet flushing, and even drinking [1].
 
-However, RWH systems often rely on manual monitoring and control, which can be time-consuming, labor-intensive, and prone to errors. The integration of weather forecasting data with RWH systems has the potential to revolutionize this process by providing real-time insights into precipitation patterns, allowing for more effective collection and utilization of rainwater. The OpenWeather-Rainwater-Harvesting-Integration project aims to develop a cutting-edge system that combines open-source weather forecasting tools (OpenWeather) with advanced RWH technologies. This innovative approach will enable users to optimize their RWH systems in real-time, ensuring maximum water yield while minimizing waste and environmental impact[2].
+However, RWH systems often rely on manual monitoring and control, which can be time-consuming, labor-intensive, and prone to errors. The integration of weather forecasting data with RWH systems has the potential to revolutionize this process by providing real-time insights into precipitation patterns, allowing for more effective collection and utilization of rainwater. The OpenWeather-Rainwater-Harvesting-Integration project aims to develop a cutting-edge system that combines open-source weather forecasting tools (OpenWeather) with advanced Rainwater-Harvesting (RWH) technologies. This innovative approach will enable users to optimize their Rainwater-Harvesting (RWH) systems in real-time, ensuring maximum water yield while minimizing waste and environmental impact [2].
 
-In this foreword, we highlight the significance of integrating OpenWeather data with RWH systems, drawing from existing research and literature on both topics. We also provide an overview of the project's objectives, methodology, and expected outcomes[1].
+In this foreword, we highlight the significance of integrating OpenWeather data with RWH systems, drawing from existing research and literature on both topics. We also provide an overview of the project's objectives, methodology, and expected outcomes [1].
 
 
 ## Prerequisites
