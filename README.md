@@ -1,16 +1,36 @@
 # OpenWeather-Rainwater-Harvesting-Integration
+
+
+[![Repository Achievement](https://img.shields.io/badge/Repository-Achievement%20%7C%20Accessible%20%7C%20Findable%20%7C%20Reproducible%20%7C%20Interoperable-4B7BE5?logo=github)](https://github.com/Nkdarmel/OpenWeather-Rainwater-Harvesting-Integration/#repository-achievement)
+<p align="center">
+  <img alt="Repository Achievement" src="https://img.shields.io/badge/Repository%20Achievement-Research%20Simulation%20Ready-0A7EA4?style=for-the-badge&logo=github" />
+</p>
+
+The project is inspired by FAIR research practices and focuses on **feasibility, accessibility, interoperability, and reproducibility** rather than claiming a platform-issued GitHub achievement.
+
+<p align="center">
+  <a href="#feasible"><img alt="Feasible" src="https://img.shields.io/badge/Feasible-research%20prototype-2E7D32?style=flat-square" /></a>
+  <a href="#accessible"><img alt="Accessible" src="https://img.shields.io/badge/Accessible-documented-1565C0?style=flat-square" /></a>
+  <a href="#interoperable"><img alt="Interoperable" src="https://img.shields.io/badge/Interoperable-Python%20workflow-6A1B9A?style=flat-square" /></a>
+  <a href="#reproducible"><img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-versioned%20workflow-E65100?style=flat-square" /></a>
+</p
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square)](https://github.com/yourusername/OpenWeather-Rainwater-Harvesting-Integration)
+
+ 
  Integrate OpenWeather API with Rainwater Harvesting Storage System (RWHSS) using Python. Fetch weather data, predict precipitation and optimize storage levels based on morning/afternoon hours. Simulate RWHSS operations for Ouagadougou city.
 
-Foreword
+## Foreword
 
-As the world grapples with the challenges of climate change, water scarcity, and urbanization, innovative solutions are needed to ensure sustainable management of our most precious resource: water. Rainwater harvesting (RWH) has emerged as a promising approach to mitigate these issues by collecting and utilizing rainwater for various purposes such as irrigation, toilet flushing, and even drinking.
+As the world grapples with the challenges of climate change, water scarcity, and urbanization, innovative solutions are needed to ensure sustainable management of our most precious resource: water. Rainwater harvesting (RWH) has emerged as a promising approach to mitigate these issues by collecting and utilizing rainwater for various purposes such as irrigation, toilet flushing, and even drinking[1].
 
-However, RWH systems often rely on manual monitoring and control, which can be time-consuming, labor-intensive, and prone to errors. The integration of weather forecasting data with RWH systems has the potential to revolutionize this process by providing real-time insights into precipitation patterns, allowing for more effective collection and utilization of rainwater. The OpenWeather-Rainwater-Harvesting-Integration project aims to develop a cutting-edge system that combines open-source weather forecasting tools (OpenWeather) with advanced RWH technologies. This innovative approach will enable users to optimize their RWH systems in real-time, ensuring maximum water yield while minimizing waste and environmental impact.
+However, RWH systems often rely on manual monitoring and control, which can be time-consuming, labor-intensive, and prone to errors. The integration of weather forecasting data with RWH systems has the potential to revolutionize this process by providing real-time insights into precipitation patterns, allowing for more effective collection and utilization of rainwater. The OpenWeather-Rainwater-Harvesting-Integration project aims to develop a cutting-edge system that combines open-source weather forecasting tools (OpenWeather) with advanced RWH technologies. This innovative approach will enable users to optimize their RWH systems in real-time, ensuring maximum water yield while minimizing waste and environmental impact[2].
 
-In this foreword, we highlight the significance of integrating OpenWeather data with RWH systems, drawing from existing research and literature on both topics. We also provide an overview of the project's objectives, methodology, and expected outcomes.
+In this foreword, we highlight the significance of integrating OpenWeather data with RWH systems, drawing from existing research and literature on both topics. We also provide an overview of the project's objectives, methodology, and expected outcomes[1].
 
 
-Prerequisites
+## Prerequisites
 
 -Install `requests` and `json` libraries: `pip install requests json`
 
@@ -110,13 +130,13 @@ if __name__ == "__main__":
     main()
 ```
 
-Running the Code
+### Running the Code
 
 1. Install dependencies using `pip install requests json`
 2. Set your OpenWeather API key as an environment variable or hardcode it in the code.
 3. Run the script: `python main.py` [4].
 
-References
+### References
 
 [1] GitHub repository for this project.
 
